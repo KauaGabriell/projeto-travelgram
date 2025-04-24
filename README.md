@@ -1,10 +1,10 @@
-# 🏞️ Desafio Prático Turístico
+# 🌍 Projeto Travelgram
 
-Este repositório apresenta a solução para um **desafio prático de front-end**, com foco na criação de uma página promocional para um destino turístico, utilizando **HTML5** e **CSS3**.
+Este repositório apresenta um projeto de interface inspirada em redes sociais voltadas ao compartilhamento de experiências de viagem. Foi desenvolvido com foco em aprendizado e prática de **HTML5** e **CSS3**.
 
 ## 🎯 Objetivo
 
-Desenvolver uma landing page visualmente atrativa e responsiva, explorando a organização de seções, imagens e textos de forma eficiente e agradável.
+Simular uma página visualmente similar a uma rede social de turismo, com destaque para identidade visual, disposição de conteúdo e responsividade.
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -13,11 +13,10 @@ Desenvolver uma landing page visualmente atrativa e responsiva, explorando a org
 
 ## 📚 Conteúdo Praticado
 
-- Estruturação semântica com HTML
-- Estilização de seções com CSS
-- Posicionamento com Flexbox
-- Tipografia e uso de imagens promocionais
-- Design responsivo básico
+- Layout com Flexbox
+- Estruturação de seções para perfil, feed e imagens
+- Estilização de textos e botões
+- Organização responsiva de componentes visuais
 
 ## 📝 Observação
 
@@ -28,5 +27,5 @@ Este projeto foi desenvolvido **exclusivamente para fins de estudo**.
 Clone o repositório e abra o arquivo `index.html` diretamente no navegador:
 
 ```bash
-git clone https://github.com/KauaGabriell/desafio-pratico-turistico.git
-cd desafio-pratico-turistico
+git clone https://github.com/KauaGabriell/projeto-travelgram.git
+cd projeto-travelgram
